@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mennawagih
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Full Stack Web Development
+- 📫 How to reach me mennawagih364@gmail.com
